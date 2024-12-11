@@ -17,7 +17,7 @@
          -> Choose any color 
          -> Copy the color mode (HSL)
   */
-  --hue: 225;
+  --hue: 265;
   --first-color: hsl(var(--hue), 80%, 49%);
   --first-color-alt: hsl(var(--hue), 76%, 45%);
   --white-color: hsl(0, 0%, 98%);
@@ -195,7 +195,7 @@ img {
 }
 
 .perfil__img{
-  height: 800px;
+  width: 250px;
   position:absolute;
   justify-self: center;
   align-self: flex-end;
