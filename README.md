@@ -71,10 +71,10 @@ npm run build
 ## 📸 Screenshots  
 
 ### 🌟 Home Page  
-![Homepage Screenshot](https://via.placeholder.com/800x400?text=Home+Page)  
+![image](https://github.com/user-attachments/assets/800a4b53-7c33-4eba-acdb-e3dfc1afa614)
 
 ### 📂 Projects Section  
-![Projects Section Screenshot](https://via.placeholder.com/800x400?text=Projects+Section)  
+![image](https://github.com/user-attachments/assets/303275fe-ba88-4fba-b9eb-c0035c32f96f)
 
 ---
 
@@ -87,9 +87,7 @@ Feel free to **fork this repository** and create a pull request with your improv
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=firefox&logoColor=white)](https://durjaysamrat.github.io/portfolio-website/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=firefox&logoColor=white)](https://durjaysamrat.github.io/portfolio-website/)  
 
 ---
 
@@ -97,5 +95,3 @@ Feel free to **fork this repository** and create a pull request with your improv
 Let’s create something awesome together. 🚀  
 
 ---
-
-Feel free to replace the placeholder screenshot URLs with actual images of your portfolio sections. Let me know if you’d like to enhance this further! 😊
