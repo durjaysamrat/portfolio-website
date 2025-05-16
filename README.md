@@ -87,7 +87,7 @@ Feel free to **fork this repository** and create a pull request with your improv
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=firefox&logoColor=white)](https://durjaysamrat.github.io/portfolio-website/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjaysamrat)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011?style=for-the-badge&logo=firefox&logoColor=white)](https://durjaysamrat.vercel.app/)  
 
 ---
 
